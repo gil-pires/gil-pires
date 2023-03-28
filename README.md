@@ -8,6 +8,7 @@
 
 
 <div align="center">
+  <a href="https://app.daily.dev/gilpires"><img src="https://api.daily.dev/devcards/84ce9c75e468465fa694f895c7f160b5.png?r=kt3" width="400" alt="Gil Pires's Dev Card"/></a>
   <a href="https://github.com/gil-pires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gil-pires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gil-pires&layout=compact&langs_count=7&theme=dracula"/>
@@ -33,6 +34,6 @@
   <a href="https://www.linkedin.com/in/willian-pires-56111413b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/gil-pires/gil-pires/blob/output/github-contribution-grid-snake.svg)
-  <a href="https://app.daily.dev/gilpires"><img src="https://api.daily.dev/devcards/84ce9c75e468465fa694f895c7f160b5.png?r=kt3" width="400" alt="Gil Pires's Dev Card"/></a>
+  
  
 </div>
